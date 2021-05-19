@@ -98,7 +98,7 @@ You'll see the following results :
 
   That's it now you're ready to go to use Squid proxy for any reason!
 
-## Refference
+## Reference
 
 - [Squid Example Config](https://wiki.squid-cache.org/ConfigExamples "Squid Example Config")
 - [curl Tutorial](https://curl.haxx.se/docs/httpscripting.html "curl Tutorial")
